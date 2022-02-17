@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @andreinemt
+- 👀 I’m interested in learning computer science
+- 🌱 I’m currently learning c++
+- 💞️ I’m looking to collaborate on c++ projects
+- 📫 How to reach me.
